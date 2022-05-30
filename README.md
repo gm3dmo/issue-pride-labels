@@ -1,5 +1,5 @@
 # GitHub Issues Labels in Pride Colors
-Change your GitHub Issues labels to match the pride flag
+Change GitHub Issues labels to match the pride flag.
 
 Download the script, set an org, repo and token and run.
 
